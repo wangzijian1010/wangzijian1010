@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wangzijian1010)](https://github.com/wangzijian1010/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzijian1010)](https://github.com/wangzijian1010/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wangzijian1010&layout=compact)](https://github.com/wangzijian1010/github-readme-stats)
